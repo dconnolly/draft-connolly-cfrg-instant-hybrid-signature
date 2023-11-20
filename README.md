@@ -1,4 +1,4 @@
-# Internet-Draft Template Repository
+# Instant: a fused pq/traditional hybrid signature scheme
 
 Use this repository as a template if you want to start working on
 [IETF](https://www.ietf.org/) documents.
